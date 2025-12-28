@@ -16,7 +16,6 @@ Este repositório tem como objetivo apresentar técnicas importantes da Matemát
 * **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 10: Geometria Espacial*. São Paulo: Editora Atual.
 * **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 11: Matemática Comercial e Financeira*. São Paulo: Editora Atual.
 
-
 ## Provas e rigor
 * Gary Chartrand, Albert D. Polimeni, e Ping Zhang. Mathematical Proofs: A Transition to Advanced Mathematics. Pearson, 4ª ed., 2018.  
 * Ian Stewart e David Orme Tall. The Foundations of Mathematics. Oxford University Press, 2ª ed., 2015.  
@@ -24,6 +23,9 @@ Este repositório tem como objetivo apresentar técnicas importantes da Matemát
 * Daniel Cordeiro de Morais Filho. Um Convite à Matemática: Com Técnicas de Demonstrações e Notas Históricas. Coleção do Professor de Matemática. Sociedade Brasileira de Matemática, 3ª ed., 2016.  
 * Keith J. Devlin. Introduction to Mathematical Thinking. Keith Devlin, 2012.  
 * Kevin Houston. How to Think Like a Mathematician: A Companion to Undergraduate Mathematics. Cambridge University Press, 2009.
+
+## Matemática discreta
+* **ROSEN, Kenneth H.** *Discrete Mathematics and Its Applications*. 8th ed. New York: McGraw-Hill Education, 2019. ISBN 9781260091991. [PDF](https://www.youseficlass.ir/wp-content/uploads/2023/07/Discrete-Mathematics-and-Its-Applications-8th-Edition.pdf)
 
 ## Cursos e tutoriais
 * [MAT0120 — Álgebra I para Licenciatura](https://www.ime.usp.br/~iusenko/ensino_2021_1/)
