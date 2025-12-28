@@ -3,12 +3,31 @@
 Este repositório tem como objetivo apresentar técnicas importantes da Matemática em tópicos: definir rigorosamente, fazer demonstrações e encontrar contraexemplos. O conteúdo abordado é diverso: desde lógica booleana, conjuntos, funções, demonstrações com Inteiro, exponenciação, logaritmos, matrizes, polinômios, números complexos, combinatória, cálculo diferencial e integral de uma variável, teoria de números, etc. Os tópicos serão abordados do ponto de vista computacional, usando a linguagem Python.
 
 # Referências
-[01] Gary Chartrand, Albert D. Polimeni, e Ping Zhang. Mathematical Proofs: A Transition to Advanced Mathematics. Pearson, 4ª ed., 2018.  
-[02] Ian Stewart e David Orme Tall. The Foundations of Mathematics. Oxford University Press, 2ª ed., 2015.  
-[03] Daniel J. Velleman. How to Prove It: A Structured Approach. Cambridge University Press, 3ª ed., 2019.  
-[04] Daniel Cordeiro de Morais Filho. Um Convite à Matemática: Com Técnicas de Demonstrações e Notas Históricas. Coleção do Professor de Matemática. Sociedade Brasileira de Matemática, 3ª ed., 2016.  
-[05] Keith J. Devlin. Introduction to Mathematical Thinking. Keith Devlin, 2012.  
-[06] Kevin Houston. How to Think Like a Mathematician: A Companion to Undergraduate Mathematics. Cambridge University Press, 2009.
+## Matemática Elementar
+* **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 1: Conjuntos e Funções*. São Paulo: Editora Atual.
+* **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 2: Logaritmos*. São Paulo: Editora Atual.
+* **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 3: Trigonometria*. São Paulo: Editora Atual.
+* **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 4: Sequências, Matrizes, Determinantes e Sistemas*. São Paulo: Editora Atual.
+* **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 5: Combinatória e Probabilidade*. São Paulo: Editora Atual.
+* **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 6: Complexos, Polinômios e Equações*. São Paulo: Editora Atual.
+* **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 7: Geometria Analítica*. São Paulo: Editora Atual.
+* **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 8: Limites, Derivadas e Noções de Integral*. São Paulo: Editora Atual.
+* **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 9: Geometria Plana*. São Paulo: Editora Atual.
+* **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 10: Geometria Espacial*. São Paulo: Editora Atual.
+* **IEZZI, Gelson; DOLCE, Osvaldo; DEGENSZAJN, David; PÉRIGO, Roberto; ALMEIDA, Nilze de.** *Fundamentos da Matemática Elementar, v. 11: Matemática Comercial e Financeira*. São Paulo: Editora Atual.
+
+
+## Provas e rigor
+* Gary Chartrand, Albert D. Polimeni, e Ping Zhang. Mathematical Proofs: A Transition to Advanced Mathematics. Pearson, 4ª ed., 2018.  
+* Ian Stewart e David Orme Tall. The Foundations of Mathematics. Oxford University Press, 2ª ed., 2015.  
+* Daniel J. Velleman. How to Prove It: A Structured Approach. Cambridge University Press, 3ª ed., 2019.  
+* Daniel Cordeiro de Morais Filho. Um Convite à Matemática: Com Técnicas de Demonstrações e Notas Históricas. Coleção do Professor de Matemática. Sociedade Brasileira de Matemática, 3ª ed., 2016.  
+* Keith J. Devlin. Introduction to Mathematical Thinking. Keith Devlin, 2012.  
+* Kevin Houston. How to Think Like a Mathematician: A Companion to Undergraduate Mathematics. Cambridge University Press, 2009.
+
+## Cursos e tutoriais
+* [MAT0120 — Álgebra I para Licenciatura](https://www.ime.usp.br/~iusenko/ensino_2021_1/)
+* [Matemática Discreta do Prof. Augusto Alfredo Loureiro](https://homepages.dcc.ufmg.br/~loureiro/md.html)
 
 # Social Media
 🌐 Webpage: https://ozsp12.github.io/  
