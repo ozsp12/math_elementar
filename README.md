@@ -30,6 +30,8 @@ Este repositório tem como objetivo apresentar técnicas importantes da Matemát
 ## Cursos e tutoriais
 * [MAT0120 — Álgebra I para Licenciatura](https://www.ime.usp.br/~iusenko/ensino_2021_1/)
 * [Matemática Discreta do Prof. Augusto Alfredo Loureiro](https://homepages.dcc.ufmg.br/~loureiro/md.html)
+* [Página do Prof. Kostiantyn Iusenko](https://www.ime.usp.br/~iusenko/ensino/?lang=pt)
+* [YouTube do Prof. Kostiantyn Iusenko](https://www.youtube.com/@kostiantyniusenko8393/featured)
 
 # Social Media
 🌐 Webpage: https://ozsp12.github.io/  
