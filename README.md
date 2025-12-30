@@ -24,7 +24,7 @@ Este repositório tem como objetivo apresentar técnicas importantes da Matemát
 * Keith J. Devlin. Introduction to Mathematical Thinking. Keith Devlin, 2012.  
 * Kevin Houston. How to Think Like a Mathematician: A Companion to Undergraduate Mathematics. Cambridge University Press, 2009.
 
-# Cálculo e análise
+## Cálculo e análise
 * Apostol, T. M. – Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra. Wiley.
 * Apostol, T. M. – Calculus, Vol. 2: Multi-Variable Calculus and Linear Algebra. Wiley.
 * Spivak, M. – Calculus. Publish or Perish.
