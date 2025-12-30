@@ -24,6 +24,25 @@ Este repositório tem como objetivo apresentar técnicas importantes da Matemát
 * Keith J. Devlin. Introduction to Mathematical Thinking. Keith Devlin, 2012.  
 * Kevin Houston. How to Think Like a Mathematician: A Companion to Undergraduate Mathematics. Cambridge University Press, 2009.
 
+# Cálculo e análise
+* Apostol, T. M. – Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra. Wiley.
+* Apostol, T. M. – Calculus, Vol. 2: Multi-Variable Calculus and Linear Algebra. Wiley.
+* Spivak, M. – Calculus. Publish or Perish.
+* Courant, R.; John, F. – Introduction to Calculus and Analysis, Vol. 1. Springer.
+* Courant, R.; John, F. – Introduction to Calculus and Analysis, Vol. 2. Springer.
+* Stewart, J. – Calculus: Early Transcendentals. Cengage.
+* Thomas, G. B.; Weir, M. D.; Hass, J. – Thomas’ Calculus. Pearson.
+* Simmons, G. F. – Calculus with Analytic Geometry. McGraw-Hill.
+* Lang, S. – A First Course in Calculus. Springer.
+* Lang, S. – Calculus of Several Variables. Springer.
+* Marsden, J. E.; Tromba, A. J. – Vector Calculus. W. H. Freeman.
+* Marsden, J. E.; Weinstein, A. – Calculus I, II, III. Springer.
+* Rudin, W. – Principles of Mathematical Analysis. McGraw-Hill.
+* Zorich, V. A. – Mathematical Analysis I. Springer.
+* Zorich, V. A. – Mathematical Analysis II. Springer.
+* Arfken, G. B.; Weber, H. J.; Harris, F. E. – Mathematical Methods for Physicists. Academic Press.
+
+
 ## Matemática discreta
 * **ROSEN, Kenneth H.** *Discrete Mathematics and Its Applications*. 8th ed. New York: McGraw-Hill Education, 2019. ISBN 9781260091991. [PDF](https://www.youseficlass.ir/wp-content/uploads/2023/07/Discrete-Mathematics-and-Its-Applications-8th-Edition.pdf)
 
